@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">AndroidMySqlphp</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Btntxt">InsertSubmit</string>
+    <string name="LoginPost">Login - Post</string>
+    <string name="App">Response</string>
+    <string name="App2">Result is:</string>
+    <string name="LoginStatus">Login Status</string>
+    <string name="LoginRole">Login Role</string>
+    <string name="Status">Not login</string>
+    <string name="Role">Not assigned</string>
+    <string name="method">Login Method</string>
+    <string name="Choose">Choose Method</string>
+    <string name="title_activity_ftmp2">ftmp2</string>
+    <string name="title_activity_main_2_all">MainActivity2AllDisplay</string>
+    <string name="title_activity_main_all_final">MainActivityAllFinal</string>
+    <string name="Btntxt2">Select/View</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_registeration">Registeration</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_registration_c">registration_c</string>
+    <string name="title_activity_registration_d">Registration_d</string>
+    <string-array name="Questions">
+        <item>Favourite Cuisine?</item>
+        <item>School Name?</item>
+        <item>Nick Name?</item>
+    </string-array>
+    <string-array name="login_as">
+        <item>ADMIN</item>
+        <item>CUSTOMER</item>
+        <item>DELIVERY BOY</item>
+    </string-array>
+    <string name="title_activity_login_a">Login_a</string>
+    <string name="title_activity_login_d">Login_d</string>
+    <string name="title_activity_launcherr">launcherr</string>
+    <string name="title_activity_launcher">Pet_Pooja</string>
+    <string name="title_activity_home_a">Home_a</string>
+    <string name="title_activity_home_d">Home_d</string>
+    <string name="title_activity_activiy_home">activiy_home</string>
+    <string name="title_activity_homep">homep</string>
+    <string name="title_activity_home_c">Pet_Pooja</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_menu_m">menu_m</string>
+    <string name="title_activity_menu_s">menu_s</string>
+    <string name="title_activity_menu_sb">menu_sb</string>
+    <string name="title_activity_menu_f">menu_f</string>
+    <string name="title_activity_cart_f">Cart_f</string>
+    <string name="title_activity_cart_ff">cart_ff</string>
+    <string name="title_activity_cart_m">cart_m</string>
+    <string name="title_activity_cart_sb">cart_sb</string>
+    <string name="title_activity_cart_s">cart_s</string>
+    <string name="title_activity_product_activiy">product_activiy</string>
+</resources>
